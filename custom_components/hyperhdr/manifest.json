@@ -1,7 +1,7 @@
 {
   "domain": "hyperhdr",
   "name": "HyperHDR",
-  "codeowners": ["@mjoshd"],
+  "codeowners": ["@jessica12ryan"],
   "config_flow": true,
   "documentation": "https://github.com/awawa-dev/HyperHDR#readme",
   "iot_class": "local_push",
@@ -13,6 +13,6 @@
       "st": "urn:github.com/awawa-dev/HyperHDR:device:basic:1"
     }
   ],
-  "issue_tracker": "https://github.com/mjoshd/hyperhdr-ha/issues",
+  "issue_tracker": "https://github.com/jessica12ryan/hyperhdr-ha/issues",
   "version": "0.0.7"
 }
